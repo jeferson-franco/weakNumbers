@@ -1,0 +1,20 @@
+{
+    "name": "weaknumbers",
+    "version": "1.0.0",
+    "description": "We define the _weakness_ of number `x` as the number of positive integers smaller than `x` that have more divisors than `x`.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/weakNumbers.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/weakNumbers/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/weakNumbers#readme"
+}
